@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+dist/
+.tmp/
+out-tsc/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / coverage
+coverage/
+*.tgz
+
+# Archivos temporales
+*.tmp
+*.swp
